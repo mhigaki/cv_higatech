@@ -1164,7 +1164,7 @@ h2.menu-item:after {
     height: 50px;
     position: absolute;
     text-align: center;
-    color: #dddddd;
+    color: #666;
     font-size: 36px;
     line-height: 45px;
 }
@@ -1183,8 +1183,8 @@ h2.menu-item:after {
 }
 
 .exp:after {
-    background: #FFF;
-    border: 2px solid #ddd;
+    background: #dedede;
+    border: 2px solid #757474;
     border-radius: 50%;
     content: "";
     height: 20px;
