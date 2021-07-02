@@ -46,7 +46,7 @@ a {
 }
 
 a:hover,
-a:focus {
+a:focus {
     text-decoration: none;
     outline: none;
 }
@@ -64,11 +64,11 @@ img {
 
 /* texts */
 h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
     text-transform: uppercase;
     font-weight: 500;
     color: #333;
@@ -128,7 +128,7 @@ ul {
 }
 
 strong,
-small {
+small {
     color: #333;
 }
 
@@ -714,7 +714,7 @@ h2.menu-item:after {
 }
 
 .inline-menu li.active,
-.inline-menu li:hover {
+.inline-menu li:hover {
     color: #333;
 }
 
@@ -939,7 +939,7 @@ h2.menu-item:after {
 }
 
 .menu2 .name-block.reverse,
-.menu4 .name-block.reverse {
+.menu4 .name-block.reverse {
     width: 100%;
 }
 
@@ -957,7 +957,7 @@ h2.menu-item:after {
 }
 
 .name-block-container h1,
-.name-block-container h2 {
+.name-block-container h2 {
     text-transform: capitalize;
     font-weight: 700;
     color: #FFF;
@@ -966,7 +966,7 @@ h2.menu-item:after {
 }
 
 .dark .name-block-container h1,
-.dark .name-block-container h2 {
+.dark .name-block-container h2 {
     color: #333;
 }
 
@@ -1200,7 +1200,7 @@ h2.menu-item:after {
 }
 
 .exp .hgroup h4,
-.exp .hgroup h5 {
+.exp .hgroup h5 {
     display: table-cell;
     text-transform: none;
     margin-bottom: 10px;
@@ -1454,7 +1454,7 @@ h4.package {
 }
 
 .filters ul li.active,
-.filters ul li:hover {
+.filters ul li:hover {
     color: #333;
 }
 
@@ -1579,8 +1579,8 @@ h4.package {
 }
 
 .classic .portfolio-content,
-.classic .portfolio-content h2,
-.classic .portfolio-content p {
+.classic .portfolio-content h2,
+.classic .portfolio-content p {
     opacity: 1;
     text-align: left;
 }
@@ -1642,28 +1642,28 @@ h4.package {
 }
 
 .carousel-control.left,
-.carousel-control.right {
+.carousel-control.right {
     background-image: none;
 }
 
 .project-nav,
-.post-nav {
+.post-nav {
     margin-top: 50px;
 }
 
 .project-nav i,
-.post-nav i {
+.post-nav i {
     font-size: 24px;
 }
 
 .project-nav a,
-.post-nav a {
+.post-nav a {
     color: inherit;
     font-weight: 500;
 }
 
 .project-nav a:hover,
-.post-nav a:hover {
+.post-nav a:hover {
     color: #333;
 }
 
@@ -1762,7 +1762,7 @@ h4.package {
 }
 
 .page-link,
-.page-item.disabled .page-link {
+.page-item.disabled .page-link {
     background-color: #f1f3f6;
     border-color: #f1f3f6;
     color: #868e96;
@@ -1778,7 +1778,7 @@ h4.package {
 }
 
 .page-link:focus,
-.page-link:hover {
+.page-link:hover {
     color: #333;
 }
 
@@ -1806,7 +1806,7 @@ h4.package {
 }
 
 .single-post-title,
-.single-post-title h1 {
+.single-post-title h1 {
     color: #FFF;
 }
 
@@ -1904,7 +1904,7 @@ h4.package {
 }
 
 .comments-list>li:before,
-.comments-list>li:after {
+.comments-list>li:after {
     content: " ";
     display: table;
 }
@@ -1936,7 +1936,7 @@ h4.package {
 }
 
 .comment:before,
-.comment:after {
+.comment:after {
     content: " ";
     display: table;
 }
@@ -1991,7 +1991,7 @@ h4.package {
 }
 
 .form-double:before,
-.form-double:after {
+.form-double:after {
     content: " ";
     display: table;
 }
@@ -2071,12 +2071,12 @@ h4.package {
 }
 
 .contact-details,
-.contact-icon {
+.contact-icon {
     display: table-cell;
 }
 
 .contact-details h5,
-.contact-details p {
+.contact-details p {
     margin-bottom: 0;
 }
 
@@ -2184,9 +2184,9 @@ h4.package {
     }
 
     .content-blocks,
-    .content-blocks.pop.showx,
-    .inline-menu-container,
-    .close-pop {
+        .content-blocks.pop.showx,
+        .inline-menu-container,
+        .close-pop {
         width: 1024px;
         left: auto;
         right: 0;
@@ -2237,7 +2237,7 @@ h4.package {
 
 @media (max-width:1280px) {
     .inline-menu-container,
-    .close-pop {
+        .close-pop {
         right: 0;
         width: 70%;
     }
@@ -2342,7 +2342,7 @@ h4.package {
     }
 
     .name-block-container h1 span,
-    .name-block-container h2 {
+        .name-block-container h2 {
         font-size: 22px;
         min-height: 22px;
     }
@@ -2356,7 +2356,7 @@ h4.package {
     }
 
     .menu2 .name-block-container h1 span,
-    .menu2 .name-block-container h2 {
+        .menu2 .name-block-container h2 {
         font-size: 26px;
         min-height: 26px;
     }
@@ -2428,8 +2428,8 @@ h4.package {
     }
 
     .timeline:before,
-    .timeline:after,
-    .exp:after {
+        .timeline:after,
+        .exp:after {
         display: none;
     }
 
@@ -2453,10 +2453,10 @@ h4.package {
     }
 
     .name-block,
-    .about-block,
-    .portfolio-block,
-    .blog-block,
-    .contact-block {
+        .about-block,
+        .portfolio-block,
+        .blog-block,
+        .contact-block {
         position: relative;
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
@@ -2475,10 +2475,10 @@ h4.package {
     }
 
     .name-block-container,
-    .about-block-container,
-    .portfolio-block-container,
-    .blog-block-container,
-    .contact-block-container {
+        .about-block-container,
+        .portfolio-block-container,
+        .blog-block-container,
+        .contact-block-container {
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
@@ -2532,7 +2532,7 @@ h4.package {
     }
 
     .sidebar-menu,
-    .home-container {
+        .home-container {
         left: 0;
         top: 0;
         width: 100%;
@@ -2567,10 +2567,10 @@ h4.package {
     }
 
     .name-block,
-    .about-block,
-    .portfolio-block,
-    .blog-block,
-    .contact-block {
+        .about-block,
+        .portfolio-block,
+        .blog-block,
+        .contact-block {
         position: relative;
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
@@ -2589,18 +2589,18 @@ h4.package {
     }
 
     .about-block:hover,
-    .portfolio-block:hover,
-    .blog-block:hover,
-    .contact-block:hover {
+        .portfolio-block:hover,
+        .blog-block:hover,
+        .contact-block:hover {
         border: none;
         border-bottom: 1px solid rgba(255, 255, 255, 0.5);
     }
 
     .name-block-container,
-    .about-block-container,
-    .portfolio-block-container,
-    .blog-block-container,
-    .contact-block-container {
+        .about-block-container,
+        .portfolio-block-container,
+        .blog-block-container,
+        .contact-block-container {
         -ms-transform: rotate(0deg);
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
@@ -2648,7 +2648,7 @@ h4.package {
     }
 
     .menu4 .content-blocks,
-    .content-blocks {
+        .content-blocks {
         width: 100%;
         left: 0;
     }
@@ -2658,12 +2658,12 @@ h4.package {
     }
 
     .menu4 .content-blocks.pop.showx,
-    .content-blocks.pop.showx {
+        .content-blocks.pop.showx {
         left: 0;
     }
 
     .menu4 .close-pop,
-    .close-pop {
+        .close-pop {
         right: 0;
         width: 100%;
     }
@@ -2689,7 +2689,7 @@ h4.package {
     }
 
     .menu2 .name-block-container h1 span,
-    .menu2 .name-block-container h2 {
+        .menu2 .name-block-container h2 {
         font-size: 22px;
         min-height: 22px;
     }
@@ -2715,7 +2715,7 @@ h4.package {
     }
 
     .exp .hgroup h4,
-    .exp .hgroup h5 {
+        .exp .hgroup h5 {
         display: table;
     }
 
@@ -2782,7 +2782,7 @@ h4.package {
 
 @media (max-width:640px) {
     .author-box .col-sm-2,
-    .author-box .col-sm-10 {
+        .author-box .col-sm-10 {
         width: 100%;
         text-align: center;
     }
