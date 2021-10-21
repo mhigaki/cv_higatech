@@ -1183,8 +1183,8 @@ h2.menu-item:after {
 }
 
 .exp:after {
-    background: #dedede;
-    border: 2px solid #757474;
+    background: #666666;
+    border: 2px solid #666666;
     border-radius: 50%;
     content: "";
     height: 20px;
