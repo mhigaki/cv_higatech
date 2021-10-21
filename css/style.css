@@ -135,7 +135,8 @@ strong,
 /* Buttons */
 a:not([href]):not([tabindex]) {
     color: #FFF;
-    cursor: pointer;
+
+    /* cursor: pointer */
 }
 
 .btn {
