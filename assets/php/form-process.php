@@ -32,7 +32,7 @@ if (empty($_POST["comment"])) {
 }
 
 
-$EmailTo = "info@higatech.xyz";
+$EmailTo = "milton.higaki@gmail.com";
 //$EmailTo = "webmaster@arkafilmes.com.br";
 $Subject = "Website - contato";
 
