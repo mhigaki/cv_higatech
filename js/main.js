@@ -23,7 +23,7 @@
 
     $('#liontextslider').owlCarousel({
       nav: false,
-      items: 1,
+      items: 3,
       navSpeed: 400,
       loop: true,
       autoplay: true,
